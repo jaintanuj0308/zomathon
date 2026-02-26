@@ -1,0 +1,7 @@
+{
+  "name": "Zomato Kitchen Intelligence (KIS)",
+  "description": "An advanced KPT prediction and signal enrichment platform to optimize rider assignment and delivery ETAs.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
